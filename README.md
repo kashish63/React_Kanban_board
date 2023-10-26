@@ -4,9 +4,11 @@ A Kanban Board created by React.js, a popular JavaScript library, provides an ef
 
 
 Main page of Kanban Board
-![image](https://github.com/kashish63/React_Kanban_board/assets/113279035/ea48694e-96b3-44fb-ac5d-f01dfaacf493)
+![image](https://github.com/kashish63/React_Kanban_board/assets/113279035/0b2e33c6-0bd7-409b-9cd0-64de8a3e0fb9)
+
 
 Add/Edit card and board
-![image](https://github.com/kashish63/React_Kanban_board/assets/113279035/4bebf741-b735-407b-b8a4-4c5f338e986b)
+![image](https://github.com/kashish63/React_Kanban_board/assets/113279035/62e01a30-a88f-40b7-97d3-52acae364881)
+
 
 
